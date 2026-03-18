@@ -13,9 +13,9 @@ I like learning new technologies and building projects.
 Python  
 Machine Learning (Basics)  
 Data Analysis  
-Git & GitHub  
+
 
 ## Contact
 
 Email: rrubitha08@gmail.com  
-GitHub: https://github.com/your-username
+
