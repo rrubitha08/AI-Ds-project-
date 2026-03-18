@@ -1,24 +1,21 @@
-This is a simple AI project that predicts student performance using machine learning.
+## Author
 
-Features
-- Predict student marks
-- Simple dataset
-- Easy to understand
+Rubitha R  
+AI & Data Science Student  
 
-Technologies Used
-- Python
-- Pandas
-- Scikit-learn
+## About
 
-How to Run
-1. Install requirements:
-   pip install -r requirements.txt
+I am interested in Artificial Intelligence and Data Science.  
+I like learning new technologies and building projects.  
 
-2. Run the project:
-   python main.py
+## Skills
 
-Output
-The model predicts student performance based on input data.
+Python  
+Machine Learning (Basics)  
+Data Analysis  
+Git & GitHub  
 
-Author
-Rubitha R
+## Contact
+
+Email: rrubitha08@gmail.com  
+GitHub: https://github.com/your-username
