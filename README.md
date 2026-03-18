@@ -1,27 +1,24 @@
-# AI-Ds-project-
-My frist github project
-# Hi, I'm Rubitha R 👋
+This is a simple AI project that predicts student performance using machine learning.
 
-🎓 I am an AI & Data Science student  
-🤖 Passionate about Artificial Intelligence and Data Science  
-💡 Curious learner who loves exploring new technologies  
+Features
+- Predict student marks
+- Simple dataset
+- Easy to understand
 
-## 🚀 Skills
-- Python (Beginner)
-- Data Analysis
-- HTML & CSS (Basics)
+Technologies Used
+- Python
+- Pandas
+- Scikit-learn
 
-## 📚 Currently Learning
-- Machine Learning
-- Data Science Tools
-- Git & GitHub
+How to Run
+1. Install requirements:
+   pip install -r requirements.txt
 
-## 🎯 Goals
-- Become a successful AI Engineer  
-- Build real-world AI projects  
-- Improve my coding skills daily  
+2. Run the project:
+   python main.py
 
-## 📫 Contact Me
-- Email: rrubitha08@gmail.com  
+Output
+The model predicts student performance based on input data.
 
-⭐ Thanks for visiting my profile!
+Author
+Rubitha R
